@@ -19,6 +19,7 @@ What are we building? This project is about fetching real-time weather data for 
 - Requests: This is to handle HTTP requests to fetch the weather data.
   
 ## Folder Structure Of The Project
+This structure is set up like this to keep everything organized and easy to find, making it simple to work with the code, share it, and test it.
 
 * src/: Contains the main application code.
 - __init__.py: Marks the folder as a Python package.
@@ -50,7 +51,7 @@ Configuring environment variables to store the weather API key secure, and set t
 
 ## Running the Python Script
 
-python src/weather_dashboard.py to run script. We're running this script to fetch weather data, process it, and save the results to AWS S3.
+Here, I am running the script to fetch weather data, process it, and save the results to an AWS S3 bucket.
 
 ![alt text](image-6.png)
 
