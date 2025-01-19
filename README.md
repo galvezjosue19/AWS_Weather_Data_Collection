@@ -2,7 +2,7 @@ Weather Dashboard Project AWS
 
 WHAT ARE WE BUILDING? This project is about fetching real-time weather data for multiple cities, displaying temperature, humidity,and weather conditions. It automatically stores the data in AWS S3 bucket with timestamps for historical tracking, supporting efficient monitoring across multiple locations.
 
-PROJECT COMPONENTS:
+## PROJECT COMPONENTS:
 
 - Open Weather API: Retrieves weather data for the app.
 - AWS S3: Stores weather data securely in the cloud.
@@ -32,9 +32,9 @@ Dependencies:
 
 ![alt text](image.png)
 
+---
 
-
-Installing Dependencies
+## Installing Dependencies
 ![alt text](image-1.png)
 
 Configured my AWS account with access key and assigned a user full access to S3 buckets.
