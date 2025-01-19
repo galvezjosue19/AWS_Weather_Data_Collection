@@ -1,8 +1,8 @@
-Weather Dashboard Project AWS
+## Weather Dashboard Project AWS
 
 WHAT ARE WE BUILDING? This project is about fetching real-time weather data for multiple cities, displaying temperature, humidity,and weather conditions. It automatically stores the data in AWS S3 bucket with timestamps for historical tracking, supporting efficient monitoring across multiple locations.
 
-## PROJECT COMPONENTS:
+# Project Components:
 
 - Open Weather API: Retrieves weather data for the app.
 - AWS S3: Stores weather data securely in the cloud.
@@ -13,11 +13,13 @@ WHAT ARE WE BUILDING? This project is about fetching real-time weather data for 
 - Environment Management: Ensures consistent app setup across systems.
 
 
-Dependencies:
+# Dependencies
 
 - Boto3: AWS SDK for Python to interact with AWS services (e.g., S3).
 - Python-dotenv: Loads environment variables from a .env file.
 - Requests: Handles HTTP requests to fetch weather data.
+  
+---
 
 ## Folder Structure Of The Project
 
