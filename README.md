@@ -18,7 +18,7 @@ What are we building? This project is about fetching real-time weather data for 
 - Python-dotenv: This will Load environment variables from the .env file.
 - Requests: This is to handle HTTP requests to fetch the weather data.
   
-## Folder Structure Of The Project
+## Project Directory Layout
 This structure is set up like this to keep everything organized and easy to find, making it simple to work with the code, share it, and test it.
 
 * src/: Contains the main application code.
