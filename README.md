@@ -46,7 +46,7 @@ Next, I need to configure my AWS credentials to allow secure access to AWS servi
 
 ![alt text](image-2.png)
 
-Configuring environment variables to store the weather API key secure, and set the name of the S3 bucket. This practice separates configurations from the main code.
+Now, we need configure environment variables to store the weather API key secure, and set the name of the S3 bucket. This practice separates configurations from the main code.
 
 ![image](https://github.com/user-attachments/assets/b272324c-2e48-4b80-ad85-a76f69730c44)
 
