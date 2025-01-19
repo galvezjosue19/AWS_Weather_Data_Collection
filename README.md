@@ -2,6 +2,9 @@
 
 What are we building? This project is about fetching real-time weather data for multiple cities, displaying temperature, humidity,and weather conditions. It automatically stores the data in AWS S3 bucket with timestamps for historical tracking, supporting efficient monitoring across multiple locations.
 
+![image](https://github.com/user-attachments/assets/ba765fbe-d13b-4024-8aad-d40357ec7773)
+
+
 ## Project Components:
 
 - Open Weather API: Retrieves weather data for the app.
