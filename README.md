@@ -35,7 +35,7 @@ This structure is set up like this to keep everything organized and easy to find
 <br><br>
 
 ## Installing Dependencies
-We are installing the dependencies to ensure the required libraries (boto3, requests,python-dotenv) are available for the script to run correctly. However, I first need to add the dependencies to the requirements.txt file before I run pip install.
+We are installing the dependencies to ensure the required libraries (boto3, requests,python-dotenv) are available for the script to run correctly. However, I first need to add the dependencies to the requirements.txt file before I run the "pip install" command.
 - echo "boto3==12.26.137" >> requirements.txt
 - echo "python-dotenv==1.0.0" >> requirements.txt
 - echo "requests==2.28.2" >> requirements.txt
