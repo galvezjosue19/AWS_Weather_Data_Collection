@@ -1,8 +1,8 @@
-## Weather Dashboard Project AWS
+# WEATHER DASHBOARD COLLECTION SYSTEM ON AWS
 
 WHAT ARE WE BUILDING? This project is about fetching real-time weather data for multiple cities, displaying temperature, humidity,and weather conditions. It automatically stores the data in AWS S3 bucket with timestamps for historical tracking, supporting efficient monitoring across multiple locations.
 
-# Project Components:
+## Project Components:
 
 - Open Weather API: Retrieves weather data for the app.
 - AWS S3: Stores weather data securely in the cloud.
@@ -12,15 +12,12 @@ WHAT ARE WE BUILDING? This project is about fetching real-time weather data for 
 - Error Handling: Manages issues to keep the app running smoothly.
 - Environment Management: Ensures consistent app setup across systems.
 
-
-# Dependencies
+## Dependencies
 
 - Boto3: AWS SDK for Python to interact with AWS services (e.g., S3).
 - Python-dotenv: Loads environment variables from a .env file.
 - Requests: Handles HTTP requests to fetch weather data.
   
----
-
 ## Folder Structure Of The Project
 
 * src/: Contains the main application code.
@@ -34,35 +31,43 @@ WHAT ARE WE BUILDING? This project is about fetching real-time weather data for 
 
 ![alt text](image.png)
 
----
+<br><br>
 
 ## Installing Dependencies
+We are installing the dependencies to ensure the required libraries (boto3, requests,python-dotenv) are available for the script to run correctly.
+
 ![alt text](image-1.png)
 
-Configured my AWS account with access key and assigned a user full access to S3 buckets.
+Configuring AWS credentials to allow secure access to AWS services from my local environment.
 
 ![alt text](image-2.png)
 
-.Env File configuration
-This .env file stores sensitive info like API keys securely, separates configurations from code, and makes it easy to manage environment-specific settings.
+Configuring environment variables to store the weather API key secure, and set the name of the S3 bucket. This practice separates configurations from the main code.
 
-![alt text](image-5.png)
+![image](https://github.com/user-attachments/assets/b272324c-2e48-4b80-ad85-a76f69730c44)
 
+<br><br>
 
-RUN PYTHON SCRIPT
+## Running the Python Script
 
-type python src/weather_dashboard.py to run the application.
+python src/weather_dashboard.py to run script. We're running this script to fetch weather data, process it, and save the results to AWS S3.
 
 ![alt text](image-6.png)
 
+<br>
 
-Verify AWS S3 Bucket Data= Success :)
+Now, let's verify if the weather data is in the bucket :)
 
 ![alt text](image-7.png)
 
+<br><br>
 
+## Pushing Local Code to GitHub Repository
+I now need to push all my local code from my development environment to my GitHub repository. Below are the three commands I used, along with a brief explanation of each.
+1. git add .: This stages all changes to the code for commit.
+2. git commit -m "message": Committed the staged changes with a message.
+3. git push origin main: Pushes my local cdoe to the GitHub repository’s main branch.
 
-Pushing my local code to my GitHub Repository.
 
 ![image](https://github.com/user-attachments/assets/61b2036a-647f-498b-bcd7-2d88c8d69d2d)
 
