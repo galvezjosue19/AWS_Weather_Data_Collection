@@ -53,6 +53,12 @@ Verify AWS S3 Bucket Data= Success :)
 
 
 
+Pushing my local code to my GitHub Repository.
+
+![image](https://github.com/user-attachments/assets/61b2036a-647f-498b-bcd7-2d88c8d69d2d)
+
+
+
 What I Learned
 
 AWS S3 bucket creation and management
