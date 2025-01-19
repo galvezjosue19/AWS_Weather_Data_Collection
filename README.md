@@ -42,7 +42,7 @@ We are installing the dependencies to ensure the required libraries (boto3, requ
 
 ![alt text](image-1.png)
 
-Configuring AWS credentials to allow secure access to AWS services from my local environment.
+Next, I need to configure my AWS credentials to allow secure access to AWS services from my local environment.
 
 ![alt text](image-2.png)
 
