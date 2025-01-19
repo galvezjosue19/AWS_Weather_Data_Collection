@@ -33,8 +33,8 @@ Dependencies:
 ![alt text](image.png)
 
 
-How to set it up
-Installed Dependencies
+
+Installing Dependencies
 ![alt text](image-1.png)
 
 Configured my AWS account with access key and assigned a user full access to S3 buckets.
