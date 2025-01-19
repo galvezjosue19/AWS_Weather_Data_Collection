@@ -9,7 +9,7 @@ AWS S3: Stores weather data securely in the cloud.
 Infrastructure as Code: Automates cloud setup (S3 bucket creation).
 Version Control (Git): Tracks and manages code changes.
 Python Development: Builds app logic using Python.
-Error Handling: Manages issues to keep the app running smoothly.
+Error Handling: Manages issues to keep the app running smoothly. 
 Environment Management: Ensures consistent app setup across systems.
 
 Dependencies:
