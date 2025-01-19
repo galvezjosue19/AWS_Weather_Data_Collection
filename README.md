@@ -15,9 +15,9 @@ PROJECT COMPONENTS:
 
 Dependencies:
 
-- boto3: AWS SDK for Python to interact with AWS services (e.g., S3).
-- python-dotenv: Loads environment variables from a .env file.
-- requests: Handles HTTP requests to fetch weather data.
+- Boto3: AWS SDK for Python to interact with AWS services (e.g., S3).
+- Python-dotenv: Loads environment variables from a .env file.
+- Requests: Handles HTTP requests to fetch weather data.
 
 ## Folder Structure Of The Project
 
