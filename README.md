@@ -76,7 +76,7 @@ Now I need to push my code from my local development environment to my GitHub re
 
 ## What Did I Learn?
 
-- AWS S3 Bucket Creation & Management: I set up and manage cloud storage on AWS to safely store weather data. 
+- AWS S3 Bucket Creation & Management: I set up and manage cloud storage on AWS to safely store data. 
 - Environment Variable Management: I securely handle API keys and sensitive data by using environment variables.
 - Python API Integration: I follow best practices for integrating external APIs into my Python project.
 - Git Workflow: I use Git to manage version control, and keep my project organized.
